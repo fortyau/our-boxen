@@ -73,7 +73,7 @@ include osx::finder::show_all_on_desktop
 include osx::no_network_dsstores
 include osx::safari::enable_developer_mode
 include osx::software_update
-osx::recovery_message { 'If this Mac is found, please call (615) 678-4922': }
+
 
 # Java
 include java
