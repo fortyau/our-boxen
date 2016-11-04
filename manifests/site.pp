@@ -15,7 +15,7 @@ include lastpass
 include sourcetree
 
 
-https://github.com/boxen/puppet-virtualbox/issues/45
+# https://github.com/boxen/puppet-virtualbox/issues/45
 include virtualbox
 class { 'virtualbox':
   version     => '5.0.14',
