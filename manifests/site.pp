@@ -10,7 +10,6 @@
 
 include chrome
 include firefox
-include hipchat
 include lastpass
 include sourcetree
 
@@ -42,14 +41,12 @@ atom::package { 'linter': }
 atom::package { 'linter-coffee-variables': }
 atom::package { 'linter-eslint': }
 atom::package { 'linter-js-standard': }
-atom::package { 'linter-jsxhint': }
 atom::package { 'linter-ruby': }
 atom::package { 'linter-sass-lint': }
 atom::package { 'linter-stylint': }
 atom::package { 'markdown-preview-plus': }
 atom::package { 'node-debugger': }
 atom::package { 'pigments': }
-atom::package { 'softTabs": true': }
 atom::package { 'symbols-tree-view': }
 atom::package { 'sync-settings': }
 atom::package { 'tab-switcher': }
