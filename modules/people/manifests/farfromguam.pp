@@ -44,9 +44,4 @@ class people::farfromguam {
     enable => false,
   }
 
-  # apps
-  include appcleaner
-  include caffeine
-  include flux
-  include steam
 }
