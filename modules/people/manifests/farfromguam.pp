@@ -13,7 +13,7 @@ class people::farfromguam {
   include osx::global::tap_to_click
 
   # Fonts
-  include fonts::adobe
+  # include fonts::adobe
 
   # Finder Settings
   include osx::finder::empty_trash_securely
